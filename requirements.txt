@@ -1,0 +1,8 @@
+openai
+tensorflow
+torch
+scikit-learn
+pandas
+numpy
+nltk
+spacy
